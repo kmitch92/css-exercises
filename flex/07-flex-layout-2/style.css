@@ -59,9 +59,8 @@ a {
   padding: 16px;
   margin: 16px;
   width: 300px;
-  display: flex;
-  flex-shrink: 0;
-  flex-wrap: wrap;
+
+  
 }
 
 ul {
